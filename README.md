@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm **Faraz Ali**, a Full Stack Engineer from Pakistan. With expertise in both frontend and backend development, I am passionate about building robust, scalable web applications. I am always eager to learn new technologies and find innovative solutions to complex problems.
+Hello! I'm **Faraz Ali**, a Full Stack Engineer. With expertise in both frontend and backend development, I am passionate about building robust, scalable web applications. I am always eager to learn new technologies and find innovative solutions to complex problems.
 
 📫 **Contact Information:**
 
